@@ -20,3 +20,6 @@ Analytical dashboard on sales (Yandex DataLens) on test data
   Данные по регионам представдены в таблице</br></br>
 
   Дополнительно представленные данные по гендерному принципу.</br></br>
+
+  **[Analytical dashboard on sales (Yandex-DataLens)](https://datalens.yandex/lcovbwmwup8a9)**<br>
+<br><br>
